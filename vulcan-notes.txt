@@ -1,0 +1,2 @@
+To run script from Spyder: e.g., 
+runfile('/Users/sukrit/Dropbox (Personal)/Documents-from-iCloud/Research_Code/Other_Software_Packages/VULCAN/plot_py/plot_vulcan.py', wdir='/Users/sukrit/Dropbox (Personal)/Documents-from-iCloud/Research_Code/Other_Software_Packages/VULCAN/plot_py', args='../output/HD189.vul H2O,CH4,CO,CO2,NH3,HCN hd189')
